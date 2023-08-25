@@ -4,3 +4,6 @@ I hope you like it
 
 # Note
 Before forking this file, in script.js file enter your registered gmail id for MyMemory API which helps to try out the more words
+
+**Live Link** 
+https://vinit7589.github.io/Language-Translation-App/
