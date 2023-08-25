@@ -4,7 +4,7 @@ const selectTag = document.querySelectorAll("select");
 const excahngeIcon = document.querySelector(".exchange");
 const translateBtn = document.querySelector("button")
 const icons = document.querySelectorAll(".row i")
-const email_id = 'vinitedu22@gmail.com'
+const email_id = 'YOUR_EMAIL_ID'
 
 
 selectTag.forEach((tag, id) => {
